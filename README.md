@@ -1,5 +1,3 @@
----
-
 ### a. How much data will your publisher program send to the message broker in one run?
 
 Jumlah data yang dikirim oleh program publisher ke message broker dalam satu kali run **tergantung pada isi pesan (message)** dan **berapa banyak pesan yang dikirim**.  
