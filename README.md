@@ -37,3 +37,7 @@ Publisher kirim 5 event ke message broker
 Subscriber memprosesnya (terlihat  pada console ada 5 event)
 Pada RabbitMQ terpampang pada bagian connections, channels, queues, dan consumers
 
+### e. Spike 
+![image](https://github.com/user-attachments/assets/9fb58d27-7ca4-44f6-9cbc-df822d0358c3)
+Ketika publisher dijalankan dengan intensitas berbeda, hasilnya akan terlihat pada kurva 
+Ketika intensitas publisher meningkat dalam mengirim pesan ke message broker, akan terjadi lonjakan message rates
