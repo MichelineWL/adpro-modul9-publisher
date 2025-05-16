@@ -29,3 +29,11 @@ Ini penting karena dalam arsitektur *publisher-subscriber*, kedua pihak tidak be
 
 ### c. Running Rabbit MQ
 ![image](https://github.com/user-attachments/assets/8b6a41ab-3405-474c-892a-f735394e6750)
+
+### d. Console Subscriber
+![image](https://github.com/user-attachments/assets/ec092f39-c801-4a3c-9a15-85dcaa44ca81)
+![image](https://github.com/user-attachments/assets/44e68165-85fd-4966-a4a8-71ffcae36585)
+Publisher kirim 5 event ke message broker
+Subscriber memprosesnya (terlihat  pada console ada 5 event)
+Pada RabbitMQ terpampang pada bagian connections, channels, queues, dan consumers
+
