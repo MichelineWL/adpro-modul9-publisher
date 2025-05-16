@@ -24,3 +24,8 @@ Iya. URL `amqp://guest:guest@localhost:5672` digunakan baik oleh **publisher** m
 > Publisher dan subscriber **terhubung ke broker yang sama**, menggunakan kredensial yang sama, dan bertukar pesan melalui broker tersebut.
 
 Ini penting karena dalam arsitektur *publisher-subscriber*, kedua pihak tidak berkomunikasi langsung, tapi melalui **message broker** (seperti RabbitMQ).
+
+---
+
+### c. Running Rabbit MQ
+![image](https://github.com/user-attachments/assets/8b6a41ab-3405-474c-892a-f735394e6750)
